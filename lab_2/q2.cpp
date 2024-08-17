@@ -1,3 +1,8 @@
+
+// Access scopes or visibility levels define from where the data members and member functions of a class can be accessed
+// Under private visibility level all variables and data functions can be accessed only inside the class, no object of the class has permissions to call these functions or modify these data members
+// Whereas under public visibility level all data members can be accessed from boht inside and outside the class, all objects can call or modify such a variable and they can be accessed by functions within the class as well
+
 #include <iostream>
 using namespace std;
 
